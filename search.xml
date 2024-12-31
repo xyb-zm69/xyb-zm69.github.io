@@ -4,11 +4,53 @@
   
     
     <entry>
+      <title>kkkkk</title>
+      <link href="/wenzhang/kkkkk/"/>
+      <url>/wenzhang/kkkkk/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container7788"></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style><h1>前言</h1>在这里写文章的前言 <h1>简介</h1>在这里写文章的简介<h1>内容1</h1><ol><li>这就是<span class='p green'>内容1</span></li><li>内容2</li><li>内容3</li></ol><h1>内容2</h1><ol><li>新建一个文章<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></li></ol><ul><li>本地查看<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo cl; hexo s </span><br></pre></td></tr></table></figure></li></ul><h1>内容3</h1><h1>内容4</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前面</title>
+      <link href="/wenzhang/%E5%89%8D%E9%9D%A2/"/>
+      <url>/wenzhang/%E5%89%8D%E9%9D%A2/</url>
+      
+        <content type="html"><![CDATA[<h1>前言</h1>在这里写文章的前言 <h1>简介</h1>在这里写文章的简介<ol><li><p>第一行</p></li><li><p>第二行</p></li><li><p>第三行</p></li><li><p>第四行</p></li><li><p>第五行</p></li><li><p>第六行</p></li><li><p>第七行</p></li><li><p>第八行</p></li><li><p>第九行</p></li><li><p>第十行</p></li><li><p>第十一行</p></li><li><p>第十二行</p></li><li><p>第十三行</p></li><li><p>第14行</p></li><li><p>第15行</p></li></ol><div class="video-container5"></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 武汉 </tag>
+            
+            <tag> 桂林 </tag>
+            
+            <tag> 长春 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>这是一篇新文章</title>
       <link href="/wenzhang/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E6%96%87%E7%AB%A0/"/>
       <url>/wenzhang/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<p>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试</p><div class="video-container"><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113722697715952&bvid=BV1n2CEYiEqy&cid=27553956254&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style><p>这是一篇储物室 疯狂的空间是看得见的罚款交水电费 时空地方经济的方式 是的看风景<br>看得见放款速度法律的风景首付贷款纠纷开始的减肥是的看风景<br>看得见风景</p>]]></content>
+        <content type="html"><![CDATA[<p>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试<br>视频上面打文字测试</p><div class="video-container"><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113722697715952&bvid=BV1n2CEYiEqy&cid=27553956254&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style><p>这是一篇储物室 疯狂的空间是看得见的罚款交水电费 时空地方经济的方式 是的看风景<br>看得见放款速度法律的风景首付贷款纠纷开始的减肥是的看风景<br>看得见风景</p><ol><li>这是<p class='p red'>第一</p></li><li>这是的二行</li><li>这件第三行</li><li>这就第四行<br>-行内文本<span class='p 行内文本'>文本内容的份上打翻水电费水电费水电费水电费水电费水电费水电费水电费水电费水电费放水电费水电费水电费水电费的说法水电费</span></li></ol><ul><li><p>彩色文字<br>在一段话中方便插入各种颜色的标签，包括：<span class='p red'>红色</span>、<span class='p yellow'>黄色</span>、<span class='p green'>绿色</span>、<span class='p cyan'>青色</span>、<span class='p blue'>蓝色</span>、<span class='p gray'>灰色</span>。</p></li><li><p>超大号文字<br>文档「开始」页面中的标题部分就是超大号文字。</p><span class='p left logo h4'>大号字</span><span class='p left logo h3'>大号字</span><span class='p left logo h2'>大号字</span><span class='p left logo h1'>大号字</span><span class='p left logo large'>大号字</span><span class='p left logo huge'>大号字</span><span class='p left logo ultra'>大号字</span><span class='p center small'>A Wonderful Theme for Hexo</span><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/06/01/6478937d7de6f.webp"/></div></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/06/01/6478937d7de6f.webp"/></div></div></li><li><p>图片<br>  你看我长得漂亮不</p><p>  <img src="https://i.loli.net/2021/03/19/2P6ivUGsdaEXSFI.png"></p><p>  我觉得很漂亮 <img class="inline-img" src="https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png" style="height:150px"/></p></li></ul>]]></content>
       
       
       <categories>
@@ -50,7 +92,7 @@
       <link href="/wenzhang/hello-world/"/>
       <url>/wenzhang/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.<br>测试<a href="https://hexo.io/">链接</a><br>参考文章：<br><a href="https://hexo.io/">xiaoming</a><br><a href="https://ai690.us.kg/">wangming</a></p><ol><li>带 <u>下划线</u> 的文本</li><li>带 <emp>着重号</emp> 的文本</li><li>带 <wavy>波浪线</wavy> 的文本</li><li>带 <del>删除线</del> 的文本</li><li>键盘样式的文本 <kbd>command</kbd> + <kbd>D</kbd></li><li>密码样式的文本：<psw>这里没有验证码</psw>    <div class="introduction-card" style="">      <div class="introduction-card-top" style="">        <div class="int-card-info">          <div class="int-tip">tip</div>          <div class="int-cardTitle">cardTitle</div>        </div>        <img src="/img" class="no-lightbox" alt="introduction"/>      </div>            <div class="introduction-card-bottom">        <div class="left">          <img src="/logo" class="no-lightbox" alt="introduction"/>          <div class="info">            <div class="title">title</div>            <div class="subTitle">subTitle</div>          </div>        </div>        <div class="right">          <a href="/link" tableindex="-1" class="no-text-decoration">前往</a>        </div>      </div>        </div>  </li></ol><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
